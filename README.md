@@ -12,7 +12,7 @@
   <h1 align="center"> Welcome!, This is the Portfolio of <a href="https://www.linkedin.com/in/andrew-costa-98913923b/"><i>Andrew Costa</i></a> </h1>
 </div>
 
-<p align="center">I'm a Back-End Developer. I'm focused on Python, PHP, JavaScript, HTML, CSS, and C.</p>
+<p align="center">I'm a Full Stack Developer. I'm focused on Websites, bots, dashboards, APIs, Python, PHP, JavaScript, Node.js, Express.js, HTML5, CSS, e SQL and C.</p>
 
 <div align="center">
   <a href="https://github.com/andrewvininius">
