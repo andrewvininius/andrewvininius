@@ -2,24 +2,19 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=Hi,+there!+My+name+is+Andrew+Costa;I'm+24+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=Hi,+there!+My+name+is+Andrew+Costa;I'm+26+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">
-    <img width="10%" src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-512.png"/>
+    <img width="10%" src="https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/github_coding_dev_developer-512.png"/>
 </div>
 
 <div>
   <h1 align="center"> Welcome!, This is the Portfolio of <a href="https://www.linkedin.com/in/andrew-costa-98913923b/"><i>Andrew Costa</i></a> </h1>
 </div>
 
-<p align="center">I'm a Full Stack Developer. I'm focused on Websites, bots, dashboards, APIs, Python, PHP, JavaScript, Node.js, Express.js, HTML5, CSS, and SQL.</p>
+<p align="center">I'm a Full Stack Developer.</p>
 
-<div align="center">
-  <a href="https://github.com/andrewvininius">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewvininius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewvininius&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+
 
 <div style="text-align: left;">
   <h5>Connect:</h5>
@@ -43,11 +38,8 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img align="center" alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img align="center" alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipenobrg&label=visitors&color=0e75b6&style=flat" alt="israelfagundes" /> </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=footer"/>
