@@ -12,9 +12,18 @@
   <h1 align="center"> Welcome!, This is the Portfolio of <a href="https://www.linkedin.com/in/andrew-costa-98913923b/"><i>Andrew Costa</i></a> </h1>
 </div>
 
-<p align="center">I'm a Full Stack Developer.</p>
+### Mais sobre mim
+
+```Python
+class Andrew:
+    name = "Andrew Costa"
+    acknowledgements = "Full Stack Developer"
+
+    primary_skillset = ["Trabalho em equipe", "Liderança", "Adaptabilidade"]
+    languages = ["Python", "javascript", "PHP"]
 
 
+```
 
 <div style="text-align: left;">
   <h5>Connect:</h5>
